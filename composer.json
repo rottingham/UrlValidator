@@ -1,0 +1,24 @@
+{
+	"name" : "rottingham/urlvalidator",
+	"type" : "library",
+	"description" : "Validate URL form, Validate Header Existance and Reformat URLs",
+	"keywords" : ["url", "validate", "format"],
+	"homepage" : "https://github.com/rottingham/UrlValidator",
+	"license" : "MIT",
+	"authors" : [
+		{
+			"name" : "Ralph Brickley",
+			"email" : "brickleyralph@gmail.com",
+			"homepage" : "https://github.com/rottingham",
+			"role" : "Developer"
+		}
+	],
+	"require" : {
+		"php" : ">=5.0"
+	},
+	"autoload": {
+		"classmap": [
+			"src/UrlValidator.class.php"
+		]
+	}
+}
