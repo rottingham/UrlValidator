@@ -5,6 +5,9 @@ Utility Class to validate URL string as well as determine if the URL exists.
 
 For extended usage examples, see test files.
 
+**Composer Ready**
+
+
 #### Sample Usage
 
 Simply import the `Urlvalidator.class.php` file into your project if you are not using dependency injection.
