@@ -37,5 +37,7 @@ You can attempt to reformat a bad URL with the `UrlValidator::reformat(url)` met
     $newUrl = UrlValidator\UrlValidator::reformat($url);
     var_dump($newUrl);
     
-    // Outputs `http://www.google.com`
+    // Outputs array (size=2)
+        'original' => `google.com`
+        'url' => 'http://wwww.google.com'
     
