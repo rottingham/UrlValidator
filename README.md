@@ -7,6 +7,8 @@ For extended usage examples, see test files.
 
 **Composer Ready**
 
+Available on Packagist: https://packagist.org/packages/rottingham/urlvalidator
+
 
 #### Sample Usage
 
